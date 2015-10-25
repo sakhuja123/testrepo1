@@ -4,3 +4,4 @@ third line
 line number 4 resolved
 line 5 added remote
 line 6 added by dev2
+line 7 added in branch2 by dev2
